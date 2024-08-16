@@ -1,3 +1,4 @@
+![logo](https://github.com/DilshanSandaruwan/DilshanSandaruwan/blob/main/GITGUB%20COVER%20PAGE.png)
 <h1 align="center">Hi 👋, I'm Dilshan Sandaruwan</h1>
 <h3 align="center">A passionate frontend developer from sri lanka</h3>
 
